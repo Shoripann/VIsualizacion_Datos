@@ -1,0 +1,21 @@
+Athlete_events.csv corresponde a un archivo en formato CSV que contiene información histórica de los Juegos Olímpicos 
+en el período comprendido entre 1936 y 2016, lo que proporciona un rango temporal amplio y adecuado para la realización 
+de análisis evolutivos y comparativos a lo largo del tiempo. 
+El dataset tiene una cantidad de 271.116 registros y tiene la siguentes columnas:
+
+ID: Identificador único por Athleta.
+Name: Nombre del Athleta
+Sex: Sexo M o F
+Age: Edad de tipo entero.
+Height: Altura en Centímetros.
+Weight: Peso en Kilogramos.
+Team: Nombre del Team o equipo al que pertenecen.
+NOC: Código del Comité Nacional Olímpico compuesta por un carácter de 3 letras.
+Games: Indica el año y la temporada de juegos.
+Year: Año en que se realizaron.
+Season: Indica si es de Verano o Invierno.
+City: Ciudad en donde se realizó.
+Sport: Deporte, Ej Judo Basketball, etc
+Event: Nombre del evento dentro del desarrollo del deporte.
+Medal: Medalla obtenida, Gold (Oro), Silver(Plata), Bronze (Bronce) o NA(Sin medalla).
+
