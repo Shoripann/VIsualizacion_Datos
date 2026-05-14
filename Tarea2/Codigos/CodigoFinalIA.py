@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
 # 1. Cargar el dataset
-file_path = "Percepción sobre los Juegos Olímpicos (respuestas) - Respuestas de formulario 1.csv"
+file_path = "DatasetEncuesta.csv"
 df = pd.read_csv(file_path)
 df.columns = [c.strip() for c in df.columns]
 
